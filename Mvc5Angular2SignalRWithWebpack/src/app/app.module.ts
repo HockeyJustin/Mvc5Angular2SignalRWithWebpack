@@ -15,27 +15,33 @@ import { RepoDetailComponent } from './github/repo-detail/repo-detail.component'
 import { LocationStrategy, HashLocationStrategy } from '@angular/common';
 import { ContactComponent } from './contact/contact.component';
 
+import { ChatComponent } from './components/chat/chat.component';
+import { SignalRService } from './services/signalr.service';
+
+
 @NgModule({
-  declarations: [
-    AppComponent,
-    AboutComponent,
-    RepoBrowserComponent,
-    RepoListComponent,
-    RepoDetailComponent,
-    HomeComponent,
-    ContactComponent
-  ],
-  imports: [
-    BrowserModule,
-    FormsModule,
-    ReactiveFormsModule,
-    HttpModule,
-    RouterModule.forRoot(rootRouterConfig, { useHash: true })
-  ],
-  providers: [
-    GithubService
-  ],
-  bootstrap: [ AppComponent ]
+	declarations: [
+		AppComponent,
+		AboutComponent,
+		RepoBrowserComponent,
+		RepoListComponent,
+		RepoDetailComponent,
+		HomeComponent,
+		ContactComponent,
+		ChatComponent
+	],
+	imports: [
+		BrowserModule,
+		FormsModule,
+		ReactiveFormsModule,
+		HttpModule,
+		RouterModule.forRoot(rootRouterConfig, { useHash: true })
+	],
+	providers: [
+		GithubService,
+		SignalRService
+	],
+	bootstrap: [AppComponent]
 })
 export class AppModule {
 
