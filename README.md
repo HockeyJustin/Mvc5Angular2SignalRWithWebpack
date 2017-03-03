@@ -14,7 +14,10 @@ Angular2 SignalR creating with hints from this [excellent project for .NET Core]
 - Clone this repository.
 - Open in VS2015 or greater.
 - If you're using VS2015, its worth adding https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebPackTaskRunner
-- Either via the webpack task runner run (Run-Development), then press play in visual studio, or from the command line run "webpack -d", then press play in visual studio.
+
+- Thanks to this on [StackOverflow](http://stackoverflow.com/a/36374413/852806). You should be able to hit play and it'll build the js in webpack too.
+
+- If that fails - Either via the webpack task runner run (Run-Development), then press play in visual studio, or from the command line run "webpack -d", then press play in visual studio.
 
 
 Note: The project uses webpack, bundling or minification.
