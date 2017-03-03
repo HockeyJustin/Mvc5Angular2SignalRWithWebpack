@@ -29,3 +29,8 @@ http://localhost:58056/Home/Chat -> MVC5 Version
 http://localhost:62499/src/index.html#/home -> Angular2 Version
 
 
+####Note:
+
+If for some reason this doesnt work 'out of the box', try removing the tildes(~) and hats(^) from the project.json and rebuild.
+
+
