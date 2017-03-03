@@ -44,3 +44,14 @@ C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\Mvc5Angular2SignalRWithWebpack\
 C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\Mvc5Angular2SignalRWithWebpack\Mvc5Angular2SignalRWithWebpack\obj\Debug\Mvc5Angular2SignalRWithWebpack.csprojResolveAssemblyReference.cache
 C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\Mvc5Angular2SignalRWithWebpack\Mvc5Angular2SignalRWithWebpack\obj\Debug\Mvc5Angular2SignalRWithWebpack.dll
 C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\Mvc5Angular2SignalRWithWebpack\Mvc5Angular2SignalRWithWebpack\obj\Debug\Mvc5Angular2SignalRWithWebpack.pdb
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\Mvc5Angular2SignalRWithWebpack\Mvc5Angular2SignalRWithWebpack\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\Mvc5Angular2SignalRWithWebpack\Mvc5Angular2SignalRWithWebpack\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\Mvc5Angular2SignalRWithWebpack\Mvc5Angular2SignalRWithWebpack\bin\Microsoft.Owin.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\Mvc5Angular2SignalRWithWebpack\Mvc5Angular2SignalRWithWebpack\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\Mvc5Angular2SignalRWithWebpack\Mvc5Angular2SignalRWithWebpack\bin\Microsoft.Owin.Security.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\Mvc5Angular2SignalRWithWebpack\Mvc5Angular2SignalRWithWebpack\bin\Owin.dll
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\Mvc5Angular2SignalRWithWebpack\Mvc5Angular2SignalRWithWebpack\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\Mvc5Angular2SignalRWithWebpack\Mvc5Angular2SignalRWithWebpack\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\Mvc5Angular2SignalRWithWebpack\Mvc5Angular2SignalRWithWebpack\bin\Microsoft.Owin.xml
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\Mvc5Angular2SignalRWithWebpack\Mvc5Angular2SignalRWithWebpack\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jonesj.LUMI\Documents\NodeGitAndNetCore\Mvc5Angular2SignalRWithWebpack\Mvc5Angular2SignalRWithWebpack\bin\Microsoft.Owin.Security.xml

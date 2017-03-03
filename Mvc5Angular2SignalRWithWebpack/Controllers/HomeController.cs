@@ -14,5 +14,11 @@ namespace Mvc5Angular2SignalRWithWebpack.Controllers
 
 			return View();
 		}
+
+
+		public ActionResult Chat()
+		{
+			return View();
+		}
 	}
 }
