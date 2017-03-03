@@ -222,20 +222,12 @@
     <Content Include="Areas\HelpPage\Views\Help\Api.cshtml" />
     <Content Include="Scripts\jquery.signalR-2.2.1.js" />
     <Content Include="Scripts\jquery.signalR-2.2.1.min.js" />
-    <Content Include="src\app\about\about.component.css" />
-    <Content Include="src\app\about\about.component.html" />
+    <Content Include="src\app\components\about\about.component.css" />
+    <Content Include="src\app\components\about\about.component.html" />
     <Content Include="src\app\app.component.html" />
     <Content Include="src\app\components\chat\chat.component.html" />
-    <Content Include="src\app\contact\contact-component.css" />
-    <Content Include="src\app\contact\contact.component.html" />
-    <Content Include="src\app\github\repo-browser\repo-browser.component.css" />
-    <Content Include="src\app\github\repo-browser\repo-browser.component.html" />
-    <Content Include="src\app\github\repo-detail\repo-detail.component.css" />
-    <Content Include="src\app\github\repo-detail\repo-detail.component.html" />
-    <Content Include="src\app\github\repo-list\repo-list.component.css" />
-    <Content Include="src\app\github\repo-list\repo-list.component.html" />
-    <Content Include="src\app\home\home.component.css" />
-    <Content Include="src\app\home\home.component.html" />
+    <Content Include="src\app\components\home\home.component.css" />
+    <Content Include="src\app\components\home\home.component.html" />
     <Content Include="src\favicon.ico" />
     <Content Include="src\index.html" />
     <Content Include="webpack.config.js" />
@@ -267,18 +259,12 @@
     <Content Include="Views\Home\Chat.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="src\app\about\about.component.ts" />
+    <TypeScriptCompile Include="src\app\components\about\about.component.ts" />
     <TypeScriptCompile Include="src\app\app.component.ts" />
     <TypeScriptCompile Include="src\app\app.module.ts" />
     <TypeScriptCompile Include="src\app\app.routes.ts" />
     <TypeScriptCompile Include="src\app\components\chat\chat.component.ts" />
-    <TypeScriptCompile Include="src\app\contact\contact.component.ts" />
-    <TypeScriptCompile Include="src\app\forms\CustomValidators.ts" />
-    <TypeScriptCompile Include="src\app\github\repo-browser\repo-browser.component.ts" />
-    <TypeScriptCompile Include="src\app\github\repo-detail\repo-detail.component.ts" />
-    <TypeScriptCompile Include="src\app\github\repo-list\repo-list.component.ts" />
-    <TypeScriptCompile Include="src\app\github\shared\github.service.ts" />
-    <TypeScriptCompile Include="src\app\home\home.component.ts" />
+    <TypeScriptCompile Include="src\app\components\home\home.component.ts" />
     <TypeScriptCompile Include="src\app\models\ChatMessage.ts" />
     <TypeScriptCompile Include="src\app\services\signalr.service.ts" />
     <TypeScriptCompile Include="src\custom-typings.d.ts" />
